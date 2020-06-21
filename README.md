@@ -1,3 +1,13 @@
+# Discord-UI-Clone
+
+A User Interface clone of [Discord](https://discord.com)<br />
+
+## Features
+
+* Typescript
+* React.js
+* Styled-components
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
